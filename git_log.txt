@@ -1,0 +1,36 @@
+commit 0fbe67a1f3cb970b3ecb56e0f1ae45f2679d3c10
+Merge: 8834bb0 26f7529
+Author: Dulce Chiquete <dchique@calstaela.edu>
+Date:   Mon Feb 2 21:47:31 2026 -0800
+
+    Resolve merge conflict
+
+commit 26f7529034b85fe774023d913c5224b72673ee8c
+Author: Dulce Chiquete <dchique@calstaela.edu>
+Date:   Mon Feb 2 21:42:26 2026 -0800
+
+    Add favorite movie/game
+
+commit 8834bb0569ca2ff1106c0f51094ddefa12f2d780
+Author: Dulce Chiquete <dchique@calstaela.edu>
+Date:   Mon Feb 2 21:33:36 2026 -0800
+
+    Add favorite food
+
+commit b40807433aad7e1b9c40b0c858cb6fbc235f310e
+Author: Dulce Chiquete <dchique@calstaela.edu>
+Date:   Mon Feb 2 21:26:30 2026 -0800
+
+    Add README
+
+commit 150dede535e2188cdf7830d299abc26260a03935
+Author: Dulce Chiquete <dchique@calstaela.edu>
+Date:   Mon Feb 2 21:03:07 2026 -0800
+
+    Fill in info on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
